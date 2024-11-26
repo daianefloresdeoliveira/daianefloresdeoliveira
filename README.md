@@ -25,7 +25,7 @@
        
   </div>
 
- ![Snake animation](https://github.com/daianefloresdeoliveira/daianefloresdeoliveira/raw/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/daianefloresdeoliveira/daianefloresdeoliveira/blob/output/github-contribution-grid-snake.svg)
 
 
 
