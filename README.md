@@ -124,8 +124,8 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/daianefloresdeoliveira/daianefloresdeoliveira/output/dist/snake.svg)
 
-![Snake animation](https://github.com/daianefloresdeoliveira/daianefloresdeoliveira/blob/output/github-contribution-grid-snake.svg)
 
 
 
